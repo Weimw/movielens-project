@@ -1,2 +1,2 @@
-# cs224w-final-project
-CS224W Final Project
+# movielens-project
+GC-MC based movie rating prediction
