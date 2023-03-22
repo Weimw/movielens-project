@@ -1,2 +1,2 @@
 # movielens-project
-GC-MC based movie rating prediction
+LightGCN based movie rating prediction
